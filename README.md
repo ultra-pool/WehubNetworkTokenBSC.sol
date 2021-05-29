@@ -1,6 +1,6 @@
    <img src="https://wehubnetwork.com/wp-content/uploads/2021/04/cropped-WeHub_Space_Logo.png" width="162" height="162">
         <br />
-        <b>SafeMoon Protocol</b>
+        <b>Wehub Network Protocol</b>
         <br />
         <br />
         <em>"Safely to the Moon"</em>
