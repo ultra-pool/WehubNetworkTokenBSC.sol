@@ -1,8 +1,38 @@
-# Safemoon.sol
-safemoon contract
-Safemoon protocol is a mixture of RFI tokenomics with the added function of auto-liquidity generating protocol. A fork from BEE with some added benefits.
+   <img src="https://wehubnetwork.com/wp-content/uploads/2021/04/cropped-WeHub_Space_Logo.png" width="162" height="162">
+        <br />
+        <b>SafeMoon Protocol</b>
+        <br />
+        <br />
+        <em>"Safely to the Moon"</em>
+        <br />
+    <a href ="https://wehubnetwork.com/" target="_blank">https://wehubnetwork.com/</a>
+ </p>
+
+# BSC Contract Address
+
+* **Always make sure you are using the right contract address !**
+* You can copy the address from here `0x`
+* Or you can scan the address from the QR code below
+
+<p align="center">
+    <img src="https://i.imgur.com/nltFc06.png" width="200" height="200">
+</p>
+
+
+# What is Wehub Network 🌚 ?
+
+Wehub Netwwork Protocol is a mixture of `RFI tokenomics` with the added function of auto-liquidity generating protocol. A fork from `####` with some added benefits.
+
+* First, the dev has minted the tokens ➡️ sent the balance to DxSale for fair launch ➡️ then burned the remainder of the tokens. Dev had to partake in presale.
+* Second, utilized the DxSale protocol to foster trust in the community by auto-locking liquidity for **4 years**.
+Simple tokenomics, elegant design and the production of token information has catered to the overall success of the project.
+* **✔️ 100% community owned and driven - no rug is possible.**
+
+# Wehub Netowork.sol
+Wehub Network contract
+Wehub Network protocol is a mixture of RFI tokenomics with the added function of auto-liquidity generating protocol. A fork from SafeMoon with some added benefits.
 First, the dev has minted the tokens - sent the balance to DxSale for fair launch - and then burned the remainder of the tokens. Dev had to partake in presale.
 Second, utilized the DxSale protocol to foster trust in the community by auto-locking liquidity for 4 years.
 Simple tokenomics and elegant design and production of token information has catered to the overall success of the project.
 100% community owned and driven - no rug is possible. 
-#safemoon join us on our journey safely to the moon!
+#WehubNetwork join us on our journey safely to the moon!
