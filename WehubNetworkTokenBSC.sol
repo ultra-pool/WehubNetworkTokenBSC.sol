@@ -1,18 +1,10 @@
 /**
- *Submitted for verification at BscScan.com on 2021-03-01
-*/
-
-/**
- *Submitted for verification at BscScan.com on 2021-03-01
-*/
-
-/**
   
    #BEE
    
    #LIQ+#RFI+#SHIB+#DOGE = #BEE
 
-   #SAFEMOON features:
+   #Wehub Network Token features:
    3% fee auto add to the liquidity pool to locked forever when selling
    2% fee auto distribute to all holders
    I created a black hole so #Bee token will deflate itself in supply with every transaction
