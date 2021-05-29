@@ -12,10 +12,10 @@
 
 * **Always make sure you are using the right contract address !**
 * You can copy the address from here `0x`
-* Or you can scan the address from the QR code below
+* Or Goto our discord channel
 
 <p align="center">
-    <img src="https://i.imgur.com/nltFc06.png" width="200" height="200">
+    <img src="https://wehubnetwork.com/wp-content/uploads/2021/04/cropped-WeHub_Space_Logo.png" width="200" height="200">
 </p>
 
 
