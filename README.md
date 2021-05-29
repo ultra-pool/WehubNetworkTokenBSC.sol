@@ -12,6 +12,7 @@
 
 * **Always make sure you are using the right contract address !**
 * You can copy the address from here `0x`
+* Total Supply 250,000,000 Tokens
 * Or Goto our discord channel
 
 <p align="center">
