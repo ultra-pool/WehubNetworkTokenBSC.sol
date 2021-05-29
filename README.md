@@ -13,7 +13,7 @@
 * **Always make sure you are using the right contract address !**
 * You can copy the address from here `0x`
 * Total Supply 250,000,000 Tokens
-* Or Goto our discord channel <a href ="https://discord.gg/c2VQQe3" target="_blank">https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa2HLGlSCVzk33LE4ON0tUbmqbTbpciUZ81w&usqp=CAU</a>
+* Or Goto our discord channel https://discord.gg/c2VQQe3
 
 <p align="center">
     <img src="https://wehubnetwork.com/wp-content/uploads/2021/04/cropped-WeHub_Space_Logo.png" width="200" height="200">
